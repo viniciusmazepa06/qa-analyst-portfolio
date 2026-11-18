@@ -2,7 +2,7 @@
 
 **Software Quality Assurance | Manual Testing | Test Analysis | Quality Processes**
 
-Welcome to my professional QA portfolio. This repository presents practical examples of software testing, test documentation, defect reporting, regression strategies, and continuous quality improvement.
+Leia também: [Versão em português](README.pt-BR.md).\n\nWelcome to my professional QA portfolio. This repository presents practical examples of software testing, test documentation, defect reporting, regression strategies, and continuous quality improvement.
 
 ## About
 
