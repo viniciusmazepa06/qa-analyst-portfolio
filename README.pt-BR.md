@@ -2,7 +2,7 @@
 
 **Garantia da Qualidade de Software | Testes Manuais | Análise de Testes | Processos de Qualidade**
 
-Bem-vindo(a) ao meu portfólio profissional de QA. Este repositório reúne exemplos práticos de testes de software, documentação, registro de defeitos, estratégias de regressão e melhoria contínua da qualidade.
+Bem-vindo(a) ao meu portfólio profissional de QA.\n\n**English version:** [Read the portfolio in English](README.md). Este repositório reúne exemplos práticos de testes de software, documentação, registro de defeitos, estratégias de regressão e melhoria contínua da qualidade.
 
 ## Sobre mim
 
