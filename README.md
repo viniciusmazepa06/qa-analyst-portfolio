@@ -38,6 +38,10 @@ I keep this section focused on tools I can discuss based on practical familiarit
 
 ## Featured project
 
+**SauceDemo — practical manual testing project**
+
+[Open the project documentation](projetos/saucedemo/README.md) | [Português](projetos/saucedemo/README.pt-BR.md)
+
 **E-commerce web application — simulated testing project**
 
 A practical, independent exercise covering requirements review, test planning, functional scenarios, defect reports, and regression testing. All examples are illustrative and do not represent a real company's product.
