@@ -38,6 +38,10 @@ As ferramentas serão apresentadas conforme forem utilizadas e validadas em proj
 
 ## Projeto em destaque
 
+**SauceDemo — projeto prático de testes manuais**
+
+[Acessar documentação do projeto](projetos/saucedemo/README.pt-BR.md) | [English](projetos/saucedemo/README.en.md)
+
 **Aplicação de e-commerce — projeto simulado de testes**
 
 Exercício independente que contempla análise de requisitos, planejamento, cenários funcionais, registro de defeitos e testes de regressão. Os exemplos são ilustrativos e não representam o produto de uma empresa real.
